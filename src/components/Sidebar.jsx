@@ -49,7 +49,7 @@ const Sidebar = () => {
                 <Switch>
                     <Route exact path='/home'><Home className={classes.route} title="The New York Times"/></Route>
                     <Route exact path='/news'><News title="The New York Times"/></Route>
-                    <Route exact path='/'><Home/></Route>
+                    <Route exact path='/new_york_times_app'><Home/></Route>
                 </Switch>
             </div>
         </div>
