@@ -11,11 +11,11 @@ const useStyles = makeStyles(()=>
       flexDirection: 'column',
       // alignItems: 'right',
       // justifyContent: 'center',
-      marginTop: '15vh'
+      margin: '15vh 6vh'
     },
     title:{
       fontFamily: 'Pirata One, cursive',
-      fontSize: '5rem',
+      fontSize: '4.5rem',
       fontWeight: '900'
   }
   })

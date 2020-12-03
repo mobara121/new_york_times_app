@@ -15,14 +15,15 @@ const useStyles = makeStyles(()=>
         },
         p:{
             margin: '2px',
-            textAlign:'left'
+            textAlign:'left',
+            fontWeight: '700'
         },
         keyword:{
             minWidth: '300px',
-            height: '20px'
+            height: '30px'
         },
         date:{
-            height:'20px'
+            height:'30px'
         },
         btn:{
             backgroundColor: 'red',
@@ -31,7 +32,8 @@ const useStyles = makeStyles(()=>
             borderRadius: '5px',
             margin: '20px',
             color: '#fff',
-            height: '30px',
+            fontWeight: '700',
+            height: '40px',
             '&:hover':{
                 backgroundColor:'#e42121'
             }

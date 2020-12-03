@@ -12,13 +12,18 @@ const useStyles = makeStyles(()=>
         },
         text:{
             fontFamily: 'Helvetica Neue',
-            fontSize: '1.2rem',            
+            fontSize: '1.1rem', 
+            margin:'auto 2vw'           
         },
         btn:{
             backgroundColor: 'red',
             padding: '10px',
             border: '2px red',
-            borderRadius: '5px'
+            borderRadius: '5px',
+            marginTop: '10px',
+            '&:hover':{
+                backgroundColor: '#e42121'
+            },
         },
         link: {
             fontFamily: 'Helvetica Neue',
