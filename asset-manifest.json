@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/new_york_times_app/static/css/main.92f3b779.chunk.css",
+    "main.js": "/new_york_times_app/static/js/main.be51284a.chunk.js",
+    "main.js.map": "/new_york_times_app/static/js/main.be51284a.chunk.js.map",
+    "runtime-main.js": "/new_york_times_app/static/js/runtime-main.d63cbd87.js",
+    "runtime-main.js.map": "/new_york_times_app/static/js/runtime-main.d63cbd87.js.map",
+    "static/js/2.01fdecde.chunk.js": "/new_york_times_app/static/js/2.01fdecde.chunk.js",
+    "static/js/2.01fdecde.chunk.js.map": "/new_york_times_app/static/js/2.01fdecde.chunk.js.map",
+    "static/js/3.2a2d2a00.chunk.js": "/new_york_times_app/static/js/3.2a2d2a00.chunk.js",
+    "static/js/3.2a2d2a00.chunk.js.map": "/new_york_times_app/static/js/3.2a2d2a00.chunk.js.map",
+    "index.html": "/new_york_times_app/index.html",
+    "static/css/main.92f3b779.chunk.css.map": "/new_york_times_app/static/css/main.92f3b779.chunk.css.map",
+    "static/js/2.01fdecde.chunk.js.LICENSE.txt": "/new_york_times_app/static/js/2.01fdecde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d63cbd87.js",
+    "static/js/2.01fdecde.chunk.js",
+    "static/css/main.92f3b779.chunk.css",
+    "static/js/main.be51284a.chunk.js"
+  ]
+}
